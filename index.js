@@ -22,21 +22,21 @@ const questions = [
         message: 'Enter installation instructions',
         name: 'installation',
     },
-    // {
-    //     type: 'input',
-    //     message: 'Enter usage information',
-    //     name: 'usage',
-    // },
-    // {
-    //     type: 'input',
-    //     message: 'Enter contribution guidelines',
-    //     name: 'contribution',
-    // },
-    // {
-    //     type: 'input',
-    //     message: 'Enter test instructions',
-    //     name: 'tests',
-    // },
+    {
+        type: 'input',
+        message: 'Enter usage information',
+        name: 'usage',
+    },
+    {
+        type: 'input',
+        message: 'Enter contribution guidelines',
+        name: 'contribution',
+    },
+    {
+        type: 'input',
+        message: 'Enter test instructions',
+        name: 'tests',
+    },
     {
         type: 'list',
         message: 'Choose the licence type',
@@ -60,7 +60,7 @@ const questions = [
 function writeToFile(fileName, data) {
     try {
         fs.writeFileSync(fileName, data);
-        console.log('\nSuccess! File has been ');
+        console.log(`\nSuccess! ${fileName} has been created`);
     } catch (err) {
         console.error(err);
     }

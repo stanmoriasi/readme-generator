@@ -36,17 +36,22 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
   ## Table of Contents
-  - [Installation]
+  - [Installation](#installation)
   \n
   ${data.installation}
-
-  - ## Installation
+  - [Usage](#usage)
   \n
-  ${data.installation}
-  - ## username
+  ${data.usage}
+  - [Contribution](#contribution)
+  \n
+  ${data.contribution}
+  - [Tests](#tests)
+  \n
+  ${data.tests}
+  - [username](#username)
   \n
   ${data.username}
-  - ## Email
+  - [Email](#email)
   \n
   ${data.email}
 `;
