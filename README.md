@@ -16,15 +16,11 @@
   
 
   to contribute to the project, fork the repository from github
-  - [Tests](#tests)
-  
 
-  run npm run:test
   - [username](#username)
   
 
   stanmoriasi
   - ## Email
   
-
-  stan@yahoo.com
+  stanmoriasi@yahoo.com
