@@ -14,7 +14,6 @@
   - [Installation](#installation) 
   - [Usage](#usage) 
   - [Contribution](#contribution)
-  - [Tests](#tests) 
   - [username](#username)  
   - [profile](#github-profile) 
 
@@ -26,9 +25,6 @@
 
   ## Contribution
   To contribute to this project, please fork the repository or create a pull request.
-
-  ## Tests
-  Run ```npm run:test```
 
   ## GitHub Profile
   https://github.com/stanmoriasi
