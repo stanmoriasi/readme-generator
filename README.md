@@ -1,37 +1,30 @@
-# The Readme Generator 
-  ![GitHub license](https://img.shields.io/badge/License-Apache-blue.svg)
-  [License](https://opensource.org/licenses/Apache)
+# The Readme Generator
+  ![GitHub license](https://img.shields.io/badge/License-GPLv2-blue.svg)
+
+  Licence URL: [License](https://opensource.org/licenses/GPLv2)
 
   ## Description
-  This project is to help any developer to generate a professional readme file
-
-  ## Link to Demo
+  This project is used to help any developer a generate professional README.md file
   
-  https://app.screencastify.com/v3/watch/RnaeofUduXpHYbcNYDhW
-
-
   ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
+  - [Installation](#installation) 
+  - [Usage](#usage) 
   - [Contribution](#contribution)
-  - [Username](#username)
+  - [Tests](#tests) 
+  - [username](#username)  
+  - [profile](#github-profile) 
 
- [Installation](#installation)
-  run npm install
+  ## Installation
+  Run ```npm install```
 
-  - [Usage](#usage)
-  
+  ## Usage
+  Use this project when working on a project that requires a README.md file
 
-  use project to generate readme file
-  - [Contribution](#contribution)
-  
+  ## Contribution
+  To contribute to this project, please fork the repository or create a pull request.
 
-  to contribute to the project, fork the repository from github
+  ## Tests
+  Run ```npm run:test```
 
-  - [username](#username)
-  
-
-  stanmoriasi
-  - ## Email
-  
-  stanmoriasi@yahoo.com
+  ## GitHub Profile
+  https://github.com/stanmoriasi
