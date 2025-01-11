@@ -41,7 +41,22 @@ function generateMarkdown(data) {
   - [Contribution](#contribution)
   - [Tests](#tests) 
   - [username](#username)  
-  - [Email](#email) 
+  - [profile](#github-profile) 
+
+  ## Installation
+  ${data.installation}
+
+  ## Usage
+  ${data.usage}
+
+  ## Contribution
+  ${data.contribution}
+
+  ## Tests
+  ${data.tests}
+
+  ## GitHub Profile
+  https://github.com/${data.username}
 `;
 }
 
