@@ -5,6 +5,11 @@
   This project is to help any developer to generate a professional readme file
   ## Table of Contents
   - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution](#contribution)
+  - [username](#username)
+
+  - [Installation](#installation)
 
   ## Link to Demo
   
