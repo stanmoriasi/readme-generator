@@ -32,9 +32,12 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
-  ${renderLicenseLink(data.license)}
+
+  Licence URL: ${renderLicenseLink(data.license)}
+
   ## Description
   ${data.description}
+  
   ## Table of Contents
   - [Installation](#installation) 
   - [Usage](#usage) 
