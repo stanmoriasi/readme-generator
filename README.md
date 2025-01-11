@@ -1,15 +1,15 @@
 # The Readme Generator 
   ![GitHub license](https://img.shields.io/badge/License-Apache-blue.svg)
   [License](https://opensource.org/licenses/Apache)
+  
   ## Description
   This project is to help any developer to generate a professional readme file
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
-  - [username](#username)
-
-  - [Installation](#installation)
+  - [Username](#username)
 
   ## Link to Demo
   
